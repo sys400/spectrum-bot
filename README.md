@@ -1,0 +1,1 @@
+Ten en cuenta que debes reemplazar los placeholders YOUR_PROXY_IP, YOUR_PROXY_PORT, YOUR_COOKIE_STRING, YOUR_USER_AGENT, YOUR_CLIENT_QUANTUM_VISIT_ID, YOUR_QUANTUM_VISIT_ID, YOUR_RECAPTCHA_TOKEN y YOUR_PORTAL_TRANSACTION_ID con los valores correspondientes de tu solicitud.
